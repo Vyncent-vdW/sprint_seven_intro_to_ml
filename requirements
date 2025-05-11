@@ -1,14 +1,14 @@
-Here are the modules used within this project
+This project utilizes the following Python modules:
 
 matplotlib == 3.10.0
 pandas == 2.2.3
 scikit-learn == 1.61
-seaborn == 0.13.2 
+seaborn == 0.13.2
 
 Note:
-For scikit there are five algorithms used, all from different libraries:
-train_test_split from sklearn.model_selection 
-DecisionTreeClassifier from sklearn.tree
-accuracy_score from sklearn.metrics 
-RandomForsetClassifier from sklearn.ensemble 
-LogisticRegression from sklearn.linear_model
+The project leverages five algorithms from the scikit-learn library:
+- `train_test_split` from `sklearn.model_selection`
+- `DecisionTreeClassifier` from `sklearn.tree`
+- `accuracy_score` from `sklearn.metrics`
+- `RandomForestClassifier` from `sklearn.ensemble`
+- `LogisticRegression` from `sklearn.linear_model`
